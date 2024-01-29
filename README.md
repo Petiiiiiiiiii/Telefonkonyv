@@ -1,1 +1,1 @@
-# Telefonkonyv
+.net 8.0
